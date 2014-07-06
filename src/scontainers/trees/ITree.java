@@ -1,9 +1,10 @@
 package scontainers.trees;
+import scontainers.*;
 
 /**
  *
  * @author Patrik Faistaver
  */
-public interface ITree {
+public interface ITree extends IContainer {
     
 }
